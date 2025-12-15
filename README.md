@@ -8,34 +8,34 @@ Ce dépôt GitHub met à disposition une documentation claire et complète pour 
 
 ## ` 📑 `︲Sommaire (cliquez pour accéder directement à la section souhaitée)
 
-1. [` 🟦 `︲Introduction`](#introduction)
-   - [` 🧰 `︲Prérequis & outils nécessaires`](#prérequis--outils-nécessaires)
+1. [` 🟦 `︲Introduction](#introduction)
+   - [` 🧰 `︲Prérequis & outils nécessaires](#prérequis--outils-nécessaires)
 
-2. [` 💾 `︲Téléchargement & Préparation des fichiers`](#téléchargement--préparation-des-fichiers)
-   - [` 🌐 `︲Téléchargement officiel de l'ISO Windows Server 2025`](#téléchargement-officiel-de-liso-windows-server-2025)
-   - [` 🧲 `︲Vérification de l'intégrité de l'ISO (SHA256)`](#vérification-de-lintégrité-de-liso-sha256)
-   - [` 🗂️ `︲Organisation des fichiers pour la VM`](#organisation-des-fichiers-pour-la-vm)
+2. [` 💾 `︲Téléchargement & Préparation des fichiers](#téléchargement--préparation-des-fichiers)
+   - [` 🌐 `︲Téléchargement officiel de l'ISO Windows Server 2025](#téléchargement-officiel-de-liso-windows-server-2025)
+   - [` 🧲 `︲Vérification de l'intégrité de l'ISO (SHA256)](#vérification-de-lintégrité-de-liso-sha256)
+   - [` 🗂️ `︲Organisation des fichiers pour la VM](#organisation-des-fichiers-pour-la-vm)
 
-3. [` 🛠️ `︲Configuration de la machine virtuelle`](#configuration-de-la-machine-virtuelle)
-   - [` ⚙️ `︲Paramètres matériels : RAM, CPU, Disque`](#paramètres-matériels--ram-cpu-disque)
-   - [` 🧩 `︲Configuration réseau : DHCP / NAT / Bridge`](#configuration-réseau--dhcp--nat--bridge)
-   - [` 📎 `︲Ajout de l'ISO dans le lecteur virtuel`](#ajout-de-liso-dans-le-lecteur-virtuel)
-   - [` 🛡️ `︲Paramètres UEFI / Secure Boot / TPM virtuel`](#paramètres-uefi--secure-boot--tpm-virtuel)
+3. [` 🛠️ `︲Configuration de la machine virtuelle](#configuration-de-la-machine-virtuelle)
+   - [` ⚙️ `︲Paramètres matériels : RAM, CPU, Disque](#paramètres-matériels--ram-cpu-disque)
+   - [` 🧩 `︲Configuration réseau : DHCP / NAT / Bridge](#configuration-réseau--dhcp--nat--bridge)
+   - [` 📎 `︲Ajout de l'ISO dans le lecteur virtuel](#ajout-de-liso-dans-le-lecteur-virtuel)
+   - [` 🛡️ `︲Paramètres UEFI / Secure Boot / TPM virtuel](#paramètres-uefi--secure-boot--tpm-virtuel)
 
-4. [` 💿 `︲Installation de Windows Server 2025`](#installation-de-windows-server-2025)
-   - [` 🌍 `︲Choix de la langue, région & clavier`](#choix-de-la-langue-région--clavier)
-   - [` 🧱 `︲Partitionnement du disque virtuel`](#partitionnement-du-disque-virtuel)
-   - [` 🚀 `︲Lancement de l'installation`](#lancement-de-linstallation)
-   - [` 🔑 `︲Saisie de la clé produit & méthode d’installation`](#saisie-de-la-clé-produit--methode-dinstallation)
+4. [` 💿 `︲Installation de Windows Server 2025](#installation-de-windows-server-2025)
+   - [` 🌍 `︲Choix de la langue, région & clavier](#choix-de-la-langue-région--clavier)
+   - [` 🧱 `︲Partitionnement du disque virtuel](#partitionnement-du-disque-virtuel)
+   - [` 🚀 `︲Lancement de l'installation](#lancement-de-linstallation)
+   - [` 🔑 `︲Saisie de la clé produit & méthode d’installation](#saisie-de-la-clé-produit--methode-dinstallation)
 
-5. [` 👤 `︲Configuration post-installation`](#configuration-post-installation)
-   - [` 👤 `︲Création du compte administrateur local`](#création-du-compte-administrateur-local)
-   - [` 🔐 `︲Paramètres de sécurité et rôle serveur`](#paramètres-de-sécurité-et-rôle-serveur)
-   - [` 🌐 `︲Connexion réseau & mise à jour`](#connexion-réseau--mise-à-jour)
+5. [` 👤 `︲Configuration post-installation](#configuration-post-installation)
+   - [` 👤 `︲Création du compte administrateur local](#création-du-compte-administrateur-local)
+   - [` 🔐 `︲Paramètres de sécurité et rôle serveur](#paramètres-de-sécurité-et-rôle-serveur)
+   - [` 🌐 `︲Connexion réseau & mise à jour](#connexion-réseau--mise-à-jour)
 
-6. [` ✅ `︲Conclusion & Annexes`](#conclusion-et-annexes)
+6. [` ✅ `︲Conclusion & Annexes](#conclusion-et-annexes)
 
-7. [` 🧰 `︲Outils & Ressources utilisés`](#outils--ressources-utilisés)
+7. [` 🧰 `︲Outils & Ressources utilisés](#outils--ressources-utilisés)
 
 ---
 
