@@ -1,8 +1,10 @@
 # ` 🪟 `︲Doc-Technique-Installation-Windows-Server-2025
 
-![Windows Server](https://img.shields.io/badge/Windows_Server-2025-0078D6?logo=windows&logoColor=white)
-![Server](https://img.shields.io/badge/Type-Server_OS-blue)
-![Guide](https://img.shields.io/badge/Guide-Installation-blue)
+<p align="center">
+  <img src="https://img.shields.io/badge/Windows_Server-2025-0078D6?logo=windows&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Type-Server_OS-0056B3?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Guide-Installation-007ACC?style=for-the-badge">
+</p>
 
 ---
 
